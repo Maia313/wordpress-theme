@@ -1,6 +1,5 @@
 # wordpress-theme
 
-# Inviduell - Wordpress
 > Blogg i WordPress med Child Theme & egna Templates
 > 
 > **Individuell**
