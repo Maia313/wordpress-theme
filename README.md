@@ -37,10 +37,9 @@ Du lämnar in uppgiften genom att exportera all information med verktyget [**All
 förnamn_efternamn_wordpress.wpress
 ```
 
-För att jag ska kunna logga in på din sida ska du ha följande inloggningsuppgifter på din användaren:
+För att jag ska kunna logga in på din sida ska du ha följande inloggningsuppgifter på din användare:
 **Användarnamn:** fend17
 **Lösenord:** fend17
 
-* Lämnas in via **Studentportalen**_
-* Lämnas in senast: **24/4 23.59**
+
 
