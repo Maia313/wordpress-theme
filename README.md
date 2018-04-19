@@ -5,7 +5,7 @@
 > **Individuell**
 
 
-Wordpress är det ledande CMSet (med stor marginal) och vi kommer därför att fokusera på Wordpress för att lära oss hur ett CMS är upplagt och hur det kan modifieras. Du ska skapa en egen hemsida i **WordPress** som använder ett egetmodiferat tema och som utnyttjar egenskapade mallar.
+Du ska skapa en egen hemsida i **WordPress** som använder ett egetmodiferat tema och som utnyttjar egenskapade mallar.
 
 ## Krav för G
 
