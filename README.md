@@ -2,7 +2,7 @@
 
 > Blogg i WordPress med Child Theme & egna Templates
 > 
-> **Individuell**
+>
 
 
 Du ska skapa en egen hemsida i **WordPress** som använder ett egetmodiferat tema och som utnyttjar egenskapade mallar.
